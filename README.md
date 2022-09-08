@@ -1,0 +1,7 @@
+- Hi, I’m @kylaallen
+- I’m interested in AI Research, App Development
+- I’m currently a computer science major and a philosophy minor at Occidental College
+- Some things I'm involved in currently
+    - TA for Data Structures Course
+    - Independent App Development project
+- How to reach me: email - kallen2@oxy.edu
