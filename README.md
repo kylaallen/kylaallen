@@ -4,4 +4,5 @@
 - Some things I'm involved in currently
     - TA for Data Structures Course
     - Independent App Development project
+- To see more about the research I've been doing, click on the OxyToMProjects organization!
 - How to reach me: email - kallen2@oxy.edu
